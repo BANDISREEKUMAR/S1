@@ -1,0 +1,7 @@
+.addcomponent,.displaytask,.taskcount{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 500px;
+    width: 450px;
+}
