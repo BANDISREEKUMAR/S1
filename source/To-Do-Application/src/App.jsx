@@ -8,9 +8,9 @@ function App() {
 
   return (
     <div>
-      <h1>Surya , My problem is resolved and now i can contribute to this project</h1>
+      <h1>Let's start my project</h1>
     </div>
   )
 }
 
-export default App
+export default App;
