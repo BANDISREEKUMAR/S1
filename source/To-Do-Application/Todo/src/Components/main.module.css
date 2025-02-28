@@ -4,6 +4,7 @@
     border-radius: 10px;
     height: 500px;
     width: 450px;
+    padding: 10px;
 }
 .Form{
     display: flex;
@@ -12,6 +13,11 @@
     height: inherit;
     padding: 10px;
 }
+form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
 input[type="date"],input[type="text"]{
     height: 30px;
     width: 250px;
@@ -19,5 +25,10 @@ input[type="date"],input[type="text"]{
 }
 button{
     height: 35px;
-    width: 70px;
+    width: 50px;
+}
+.TaskItems{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
