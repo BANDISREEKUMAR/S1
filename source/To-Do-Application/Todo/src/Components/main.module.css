@@ -5,3 +5,19 @@
     height: 500px;
     width: 450px;
 }
+.Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    padding: 10px;
+}
+input[type="date"],input[type="text"]{
+    height: 30px;
+    width: 250px;
+    margin: 5px;
+}
+button{
+    height: 35px;
+    width: 70px;
+}
