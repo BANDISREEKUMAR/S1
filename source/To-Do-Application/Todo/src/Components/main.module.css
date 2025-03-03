@@ -32,3 +32,14 @@ button{
     justify-content: space-between;
     align-items: center;
 }
+.taskcount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.done{
+    text-decoration: line-through;
+}
+.notdone{
+    text-decoration: none;
+}
